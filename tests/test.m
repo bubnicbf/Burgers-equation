@@ -1,3 +1,6 @@
+/*
+runs all the tests
+*/
 function test ( )
 
   fprintf ( 1, '\n' );
