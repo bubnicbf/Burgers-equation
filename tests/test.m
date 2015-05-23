@@ -22,7 +22,6 @@ function test ( )
   fprintf ( 1, '  Normal end of execution.\n' );
 
   fprintf ( 1, '\n' );
-  timestamp ( );
 
   return
 end
